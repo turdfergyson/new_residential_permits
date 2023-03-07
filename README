@@ -1,0 +1,4 @@
+download permit files from https://www.census.gov/construction/bps/statemonthly.html&c_year=-1
+>>this shows building permits by state, going back to as far as 2019 (the code provided only goes to 2021)
+
+move all files into a folder in your working directory with name of your choice (eg. "Monthly Census Permit Data")
