@@ -12,9 +12,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import glob
 
-os.chdir('C:\\Users\\TysonWeigel\\OneDrive - SAFEbuilt\\Documents\\Python Scripts\\workshop')
+os.chdir('YOUR WORKING DIRECTORY HERE')
 
-path = r'C:\Users\TysonWeigel\OneDrive - SAFEbuilt\Documents\Python Scripts\workshop\Monthly Census Permit Data'
+path = r'YOUR FILEPATH HERE'
 
 all_files = glob.glob(os.path.join(path,"*.xls"))   
 
